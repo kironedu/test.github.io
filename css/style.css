@@ -221,6 +221,7 @@ input::placeholder {
   -moz-appearance: none;
   appearance: none;
   background: #ffffff !important;
+  border-radius:15%;
 }
 
 .main-form_checkbox1__input1:checked::before {
@@ -274,6 +275,7 @@ input::placeholder {
   -moz-appearance: none;
   appearance: none;
   background: #ffffff !important;
+  border-radius:15%;
 }
 
 .main-form_checkbox2__input2:checked::before {
